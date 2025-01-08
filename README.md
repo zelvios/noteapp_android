@@ -2,7 +2,7 @@
 
 A simple android note app using a local SQLite database for storing notes.
 
-![design.png](design.png)
+![design.png](screenshots/design.png)
 
 > [!NOTE]
-> The goal for this project was made for learning android studio.
+> The goal of this project was to get familiar android studio.
